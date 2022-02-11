@@ -8,7 +8,7 @@ Run Ganache and then the following commands:
 
 ### truffle test
 
-<div><img src="./src/images/testresult.png" alt="copycats logo" width="400" /></div>
+<div><img src="./src/images/testresult.png" alt="copycats logo" width="600" /></div>
 
 
 ### truffle migrate
