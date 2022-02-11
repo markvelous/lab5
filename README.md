@@ -8,7 +8,7 @@ Run Ganache and then the following commands:
 
 ### truffle test
 
-![github-small](src/images/testresult.png)
+<div align="center"><img src="./src/images/testresult.png" alt="copycats logo" width="320" /></div>
 
 
 ### truffle migrate
